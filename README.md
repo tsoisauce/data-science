@@ -20,6 +20,13 @@ Install libraries
 pipenv install
 ```
 
+## Jupyter Notebook
+To launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
 ## Libraries
 - [Jupyter](https://jupyter.org/)
 - [Pandas](https://pandas.pydata.org/)
+- [Scikit-Learn](https://scikit-learn.org/stable/)
