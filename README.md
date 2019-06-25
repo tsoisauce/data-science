@@ -21,5 +21,5 @@ pipenv install
 ```
 
 ## Libraries
-[Jupyter](https://jupyter.org/)
-[Pandas](https://pandas.pydata.org/)
+- [Jupyter](https://jupyter.org/)
+- [Pandas](https://pandas.pydata.org/)
